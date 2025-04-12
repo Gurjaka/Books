@@ -13,6 +13,9 @@ This repository contains books I've read and recommend, or plan to read in the f
 - **Networking** – TCP/IP, socket programming, VPNs, and network theory.
 - **DDR (RAM)** – Types, architecture, latency, bandwidth, and memory performance.
 - **Python** – High-level scripting, automation, data handling, and application development.
+- **OSDev** – Operating system development, kernel programming.
+- **Reverse Engineering** – Disassembly, analysis, and understanding binaries.
+- **Mathematics** – Theoretical and applied mathematics, algorithms, and problem solving.
 
 ---
 
