@@ -11,6 +11,8 @@ This repository contains books I've read and recommend, or plan to read in the f
 - **Cryptography** – Algorithms, protocols, and security theory.
 - **Linux** – Operating system internals, administration, and kernel.
 - **Networking** – TCP/IP, socket programming, VPNs, and network theory.
+- **DDR (RAM)** – Types, architecture, latency, bandwidth, and memory performance.
+- **Python** – High-level scripting, automation, data handling, and application development.
 
 ---
 
